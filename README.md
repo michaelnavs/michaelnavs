@@ -1,9 +1,14 @@
 ![Hello, World! 👋🏼](/images/profile-img.png)
 
-My name is Michael Navarro and currently I am a CS student at Auburn University at Montgomery
+## CS student and Full-Stack Developer
 
-- 🌱 I’m currently learning ... The PERN Stack
-- 🤔 I’m looking for help with ... Interview Questions / Leetcode Problems
-- 💬 Ask me about ... Anything!
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/michael-navarro-297438167/)
+- 🖥 I'm currently working on my portfolio site
+- 🌱 I'm currently learning PostgreSQL, Express.js, React.js, and Node.js
+- 🙂 Pronouns: he/him
 - ⚡ Fun fact: ... My wife and I are expecting a little girl December 28!
+
+🏠 [website][website] **|**
+👔 [linkedin][linkedin]
+
+[website]: https://michaelnavarro.io
+[linkedin]: https://www.linkedin.com/in/michael-navarro-297438167/
