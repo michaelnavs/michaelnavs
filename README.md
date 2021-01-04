@@ -1,9 +1,9 @@
 ![Hello, World! 👋🏼](/images/profile-img.png)
 
-## CS student, AI, and Web Developement
+## CS student and Full Stack Web Development
 
 - 🖥  I'm currently working on a sorting algorithm visualizer
-- 🌱  I'm currently learning the basics of python and machine learning
+- 🌱  I'm currently learning React
 - 🙂  Pronouns: he/him
 - ⚡  Fun fact: ... My wife and I are expecting a little girl December 21!
 
