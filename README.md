@@ -2,7 +2,7 @@
 
 ## CS student, AI, and Web Development
 
-- 🖥  I'm currently working on a linear regression model to predict student grades
+- 🖥  I'm currently working on hyperspectral imaging and machine learning research
 - 🌱  I'm currently learning beginner machine learning topics
 - 🙂  Pronouns: he/him
 - ⚡  Fun fact: ... My daughter, Eliza, was born on December 21, 2020!
