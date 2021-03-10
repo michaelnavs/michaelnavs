@@ -10,5 +10,8 @@
 🏠 [website][website] **|**
 👔 [linkedin][linkedin]
 
+<img alt="GitHub Stats"
+         src="https://github-readme-stats.vercel.app/api?username=michaelnavs&show_icons=true&theme=default&hide_border=true" />
+
 [website]: https://michaelnavarro.io
 [linkedin]: https://www.linkedin.com/in/michael-navarro-297438167/
